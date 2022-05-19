@@ -66,7 +66,7 @@ readme-template/README-profile/Ronei031
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=Ronei031&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/Ronei031">
@@ -96,7 +96,7 @@ readme-template/README-profile/Ronei031
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=LuanderFarias&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Ronei031&repo=LuanderFarias&theme=tokyonight">
     </img>
   </a>
 </p>
