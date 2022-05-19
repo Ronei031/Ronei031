@@ -56,11 +56,10 @@
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
-
-    />
+         
   </a>
 </p>
-<h5 align="center">Seu @</h5>
+<h5 align="center">Seu Ronei031</h5>
 </details>
 © 2022 GitHub, Inc.
 Terms
