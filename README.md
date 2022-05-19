@@ -59,7 +59,6 @@
          
   </a>
 </p>
-<h5 align="center">Seu Ronei031</h5>
 </details>
 © 2022 GitHub, Inc.
 Terms
