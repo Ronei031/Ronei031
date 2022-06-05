@@ -5,7 +5,7 @@
  
  😄 Pronouns: Ele/dele
  
- 🧑‍💻 Python
+ 🧑‍💻 Python, JavaScript, CSS, HTML
  
 
 <h3 align="center">Sobre mim:</h3>
