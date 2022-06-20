@@ -1,7 +1,7 @@
   ### Olá! Eu sou o Ronei Silva. 👋
  🔭 Atualmente trabalhando na Autoglass Brasil, Controlador de Frotas. 
  
- 🌱 Cursando Análise e Desenvolvimento de Sistemas. 
+ 🌱 Formado em Processos Gerenciais e Cursando Análise e Desenvolvimento de Sistemas. 
  
  😄 Pronouns: Ele/dele
  
