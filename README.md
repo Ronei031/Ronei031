@@ -3,9 +3,7 @@
  
  🌱 Formado em Processos Gerenciais e Cursando Análise e Desenvolvimento de Sistemas. 
  
- 😄 Pronouns: Ele/dele
- 
- 🧑‍💻 Python, JavaScript, CSS, HTML
+ 🧑‍💻 Python, JavaScript, CSS, HTML, GIT, GITHUB.
  
 
 <h3 align="center">Sobre mim:</h3>
