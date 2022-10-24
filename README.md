@@ -1,9 +1,9 @@
   ### Olá! Eu sou o Ronei Silva. 👋
- 🔭 Atualmente trabalhando na Autoglass Brasil, Controlador de Frotas. 
+ 🔭 Atualmente trabalhando na Autoglass Brasil, Encarregado de Frotas. 
  
  🌱 Graduado em Processos Gerenciais e graduando Análise e Desenvolvimento de Sistemas. 
  
- 🧑‍💻 Python, JavaScript, CSS, HTML, GIT, GITHUB.
+ 🧑‍💻 Python, JavaScript, CSS, HTML, GIT, GITHUB, MySQL.
  
 
 <h3 align="center">Sobre mim:</h3>
