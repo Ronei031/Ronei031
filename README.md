@@ -3,8 +3,7 @@
  
  🌱 Graduado em Processos Gerenciais e graduando Análise e Desenvolvimento de Sistemas. 
  
- 🧑‍💻 Python, JavaScript, CSS, HTML, GIT, GITHUB, MySQL.
- 
+|Desenvolvedor Full-Stack | Logística | JavaScript | Python | SQL | PHP |
 
 <h3 align="center">Sobre mim:</h3>
 
