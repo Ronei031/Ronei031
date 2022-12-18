@@ -1,9 +1,9 @@
-  ### Olá! Eu sou o Ronei Silva. 👋
- 🔭 Atualmente trabalhando na Autoglass Brasil, Encarregado de Frotas. 
+  ### Hello! My name is Ronei Silva. 👋
+ 🔭 Encarregado de Frotas Autoglass Brasil e Developer nas horas vagas;
  
  🌱 Graduado em Processos Gerenciais e graduando Análise e Desenvolvimento de Sistemas. 
  
-|Desenvolvedor Full-Stack | Logística | JavaScript | Python | SQL | PHP |
+|Developer| Fleet Logistics | JavaScript | Python | SQL | PHP | GIT |
 
 <h3 align="center">Sobre mim:</h3>
 
