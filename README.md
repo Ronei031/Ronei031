@@ -1,9 +1,9 @@
   ### Hello! My name is Ronei Silva. 👋
- 🔭 Encarregado de Frotas Autoglass Brasil e Developer nas horas vagas;
+ 🔭 Desenvolvedor Full stack .net e angular;
  
  🌱 Graduado em Processos Gerenciais e graduando Análise e Desenvolvimento de Sistemas. 
  
-|Developer| Fleet Logistics | JavaScript | Python | SQL | PHP | GIT |
+| Developer | C# | Angular | PLSQL | Oracle | GIT |
 
 <h3 align="center">Sobre mim:</h3>
 
