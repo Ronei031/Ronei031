@@ -1,7 +1,7 @@
-  ### Hello! My name is Ronei Silva. 👋
+  ### Olá! Meu nome é Ronei Silva. 👋
  🔭 Desenvolvedor Full stack .net e angular;
  
- 🌱 Graduado em Processos Gerenciais e graduando Análise e Desenvolvimento de Sistemas. 
+ 🌱 Graduado em Processos Gerenciais e Análise e Desenvolvimento de Sistemas. 
  
 | Developer | C# | Angular | PLSQL | Oracle | GIT |
 
